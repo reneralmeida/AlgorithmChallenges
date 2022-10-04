@@ -2,10 +2,7 @@ import java.util.*;
 import java.lang.*;
 
 class Solution {
-    /**
-    * @param str: String to be tested for validity
-    * @return boolean: Returns true if the string is valid else false
-    */
+
     public static boolean isValid(String s) {
         if (s.length() % 2 != 0 ) return true;
 
