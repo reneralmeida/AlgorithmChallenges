@@ -1,4 +1,7 @@
-        int[] result = new int[ops.length];
+
+public class BaseBallGame {
+public static void main(String[] args) {
+    int[] result = new int[ops.length];
         int index = 0;
         for (String op : ops) {
             if (op.equals("+")) {
@@ -23,5 +26,6 @@
             ans += resul;
         }
         return ans;        
-    }
+     }
+  }
 }

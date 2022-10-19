@@ -1,5 +1,3 @@
-package easy;
-
 /**
  String Challenge - Coderbyte
  Have the function StringChallenge(str) take the str parameter being passed and return it in proper camel case format where the first letter of each
